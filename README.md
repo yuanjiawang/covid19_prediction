@@ -5,8 +5,8 @@
 - Title: **Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies**
 - Authors: **Qinxia Wang, Shanghong Xie**, Correspondonce to: **Dr. Yuanjia Wang** and **Dr. Donglin Zeng**
 - Institutions: 
-  + Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, NY, USA 
-  + Department of Biostatistics, Gillings School of Public Health, University of North Carolina at Chapal Hill, Chapal Hill, NC, USA
+  + Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, NY, USA (QW, SX, YW)
+  + Department of Biostatistics, Gillings School of Public Health, University of North Carolina at Chapal Hill, Chapal Hill, NC, USA (DZ)
 
 - We present a parsimonious and robust survival-convolution model to predict daily new cases and latent cases. The model accounts for transmission during a incubation period and uses a time-varying reproduction number to reflect the temporal trend and change of transmission in response to an intervention. 
 
